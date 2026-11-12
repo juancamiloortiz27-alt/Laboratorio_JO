@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="aplicaciones_tienda/JO_APLICACION.csproj" />
+  <Project Path="JO_FRONT/JO_FRONT.csproj" />
+  <Project Path="JO_PRESENTACION/JO_PRESENTACION.csproj" />
+  <Project Path="JO_SERVICIOS/JO_SERVICIOS.csproj" />
+</Solution>
